@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpel30&theme=dark&langs_count=8&hide=E,makefile" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpel30&theme=dark&langs_count=20&hide=E,makefile" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=arpel30&theme=dark" />
