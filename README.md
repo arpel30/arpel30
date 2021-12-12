@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a 3rd year software engineering student, specialize in Cyber Security.
+I'm a 4th year software engineering student, specialize in Cyber Security.
 <br>
 
 Interested in AI, ML & Cyber security.
